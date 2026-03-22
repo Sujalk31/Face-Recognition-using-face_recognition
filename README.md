@@ -22,6 +22,4 @@ Built using Python, OpenCV, and the face_recognition library.
 - Efficient processing (frame skipping + scaling)
 - Easy to use command-line interface
 
----
 
-## 📂 Project Structure
